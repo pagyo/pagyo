@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pagyo.
-- 👀 I’m interested in electronic and programming.
+- 👀 I’m interested in electronics and programming.
 - 🌱 I’m currently learning Arduino and design patterns.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email: pajter.gyozo@gmail.com.
